@@ -1,4 +1,13 @@
-# Tennis Analysis System
+<h1 align="center">Tennis Analysis System</h1>
+<p float='left'>
+<img src="https://repository-images.githubusercontent.com/535360445/2a2c855b-932c-4625-a30d-3a0b475f1051" alt="" width="300" height="200">
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" alt="" width="300" height="200">
+<img src="https://miro.medium.com/v2/resize:fit:691/1*VSQ0XEywxSgZBwW05GsZtw.png" alt="" width="300" height="200">
+</p>
+
+
+
+
 
 ## Introduction
 This project analyzes Tennis players in a video to measure their speed, ball shot speed and number of shots. This project will detect players and the tennis ball using YOLO and also utilizes CNNs to extract court keypoints.
